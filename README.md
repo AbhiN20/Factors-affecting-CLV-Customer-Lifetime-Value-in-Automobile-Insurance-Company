@@ -35,7 +35,6 @@ The global automobile insurance market is vast and growing, driven by an increas
 To explore the analysis and reproduce the findings, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Ensure you have Python and Jupyter Notebook installed.
-3. Install necessary Python packages:
-   ```bash
-   pip install numpy pandas matplotlib scikit-learn
+2. Ensure you have R Kernel on Jupyter Notebook and Jupyter Notebook installed.
+3. Install necessary R packages:
+   
